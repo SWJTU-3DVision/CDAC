@@ -1,7 +1,13 @@
 A Cross-Dimension Annotations Method for 3D Structural Facial Landmark Extraction
 ====
-1.paper link：https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13895
 
-2.demo download 
+Background
+-------
+This repository is for [A Cross-Dimension Annotations Method for 3D Structural Facial Landmark Extraction](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13895) (COMPUTER GRAPHICS forum),
+
+by Xun Gong , Ping Chen, Zhemin Zhang, Ke Chen, Yue Xiang and Xin Li from Southwest Jiaotong University.
+
+demo download 
+-------
 
 Baidu Cloud:https://pan.baidu.com/s/1VSCAuMHHopy6Szf6nxHe3w
