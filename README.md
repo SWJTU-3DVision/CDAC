@@ -19,8 +19,9 @@ If you find our work useful in your research, please consider to cite:
     }
 Contents
 -------
-* Introduction
-* demo
+* [Introduction](#Introduction)
+* Requirements
+* demo download
 
 Introduction
 -------
@@ -38,7 +39,9 @@ MBCR outperforms the-state-of-the-art methods in 3DA-2D facial landmark localiza
 at up to 110 fps on a 3.4 GHz-CPU workstation. Thus, CDAC provides a solution to transform existing 2D alignment methods
 into 3DA-2D ones without slowing down the speed.
 
+Requirements
+-------
+    1.opencv2.4.13
 demo download 
 -------
-
 Baidu Cloud:https://pan.baidu.com/s/1VSCAuMHHopy6Szf6nxHe3w
