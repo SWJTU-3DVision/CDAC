@@ -38,6 +38,32 @@ facial landmarks from 2D to 3DA-2D coordinates and vice versa. The experimental 
 MBCR outperforms the-state-of-the-art methods in 3DA-2D facial landmark localization. Moreover, CDAC can run efficiently
 at up to 110 fps on a 3.4 GHz-CPU workstation. Thus, CDAC provides a solution to transform existing 2D alignment methods
 into 3DA-2D ones without slowing down the speed.
+Recent methods for 2D facial landmark localization perform well on close-to-frontal faces, but 2D landmarks are insufficient
+to represent 3D structure of a facial shape. For applications that require better accuracy, such as facial motion capture and
+3D shape recovery, 3DA-2D (2D Projections of 3D Facial Annotations) is preferred. Inferring the 3D structure from a single
+image is an ill-posed problem whose accuracy and robustness are not always guaranteed. This paper aims to solve accurate 2D
+facial landmark localization and the transformation between 2D and 3DA-2D landmarks. One way to increase the accuracy is
+to input more precisely annotated facial images. The traditional cascaded regressions cannot effectively handle large or noisy
+training data sets. In this paper, we propose a Mini-Batch Cascaded Regressions (MBCR) method that can iteratively train
+a robust model from a large data set. Benefiting from the incremental learning strategy and a small learning rate, MBCR is
+robust to noise in training data. We also propose a new Cross-Dimension Annotations Conversion (CDAC) method to map
+facial landmarks from 2D to 3DA-2D coordinates and vice versa. The experimental results showed that CDAC combined with
+MBCR outperforms the-state-of-the-art methods in 3DA-2D facial landmark localization. Moreover, CDAC can run efficiently
+at up to 110 fps on a 3.4 GHz-CPU workstation. Thus, CDAC provides a solution to transform existing 2D alignment methods
+into 3DA-2D ones without slowing down the speed.
+Recent methods for 2D facial landmark localization perform well on close-to-frontal faces, but 2D landmarks are insufficient
+to represent 3D structure of a facial shape. For applications that require better accuracy, such as facial motion capture and
+3D shape recovery, 3DA-2D (2D Projections of 3D Facial Annotations) is preferred. Inferring the 3D structure from a single
+image is an ill-posed problem whose accuracy and robustness are not always guaranteed. This paper aims to solve accurate 2D
+facial landmark localization and the transformation between 2D and 3DA-2D landmarks. One way to increase the accuracy is
+to input more precisely annotated facial images. The traditional cascaded regressions cannot effectively handle large or noisy
+training data sets. In this paper, we propose a Mini-Batch Cascaded Regressions (MBCR) method that can iteratively train
+a robust model from a large data set. Benefiting from the incremental learning strategy and a small learning rate, MBCR is
+robust to noise in training data. We also propose a new Cross-Dimension Annotations Conversion (CDAC) method to map
+facial landmarks from 2D to 3DA-2D coordinates and vice versa. The experimental results showed that CDAC combined with
+MBCR outperforms the-state-of-the-art methods in 3DA-2D facial landmark localization. Moreover, CDAC can run efficiently
+at up to 110 fps on a 3.4 GHz-CPU workstation. Thus, CDAC provides a solution to transform existing 2D alignment methods
+into 3DA-2D ones without slowing down the speed.
 
 Requirements
 -------
