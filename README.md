@@ -7,6 +7,9 @@ This repository is for [A Cross-Dimension Annotations Method for 3D Structural F
 
 by Xun Gong , Ping Chen, Zhemin Zhang, Ke Chen, Yue Xiang and Xin Li from Southwest Jiaotong University.
 
+#citation
+#If you find our work useful in your research, please consider to cite:
+
 demo download 
 -------
 
