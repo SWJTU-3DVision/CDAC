@@ -21,7 +21,7 @@ Contents
 -------
 * [Introduction](#Introduction)
 * [Requirements](#Requirements)
-* [demo download](#demo download)
+* [demo](#demo)
 
 Introduction
 -------
@@ -42,6 +42,6 @@ into 3DA-2D ones without slowing down the speed.
 Requirements
 -------
     1.opencv2.4.13
-demo download 
+demo 
 -------
 Baidu Cloud:https://pan.baidu.com/s/1VSCAuMHHopy6Szf6nxHe3w
