@@ -20,8 +20,8 @@ If you find our work useful in your research, please consider to cite:
 Contents
 -------
 * [Introduction](#Introduction)
-* Requirements
-* demo download
+* [Requirements](#Requirements)
+* [demo download](#demo download)
 
 Introduction
 -------
