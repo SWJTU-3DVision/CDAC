@@ -1,0 +1,82 @@
+﻿Build started 2019/12/30 15:46:22.
+     1>Project "F:\chenp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         G:\vs2013anzhuang\VC\bin\x86_amd64\CL.exe /c /I"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\opencv\lib" /I"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\opencv\include" /I"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\opencv\include\opencv" /I"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\opencv\include\opencv2" /I"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\facedetect" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D GOOGLE_GLOG_DLL_DECL= /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt common.cpp hog.cpp main.cpp
+         common.cpp
+     1>common.cpp(195): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>common.cpp(196): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>common.cpp(317): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>common.cpp(323): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>common.cpp(404): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>common.cpp(410): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(411): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(413): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(414): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(415): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(416): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>common.cpp(426): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>common.cpp(427): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>common.cpp(428): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>common.cpp(429): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>common.cpp(494): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>common.cpp(495): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>common.cpp(507): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+         hog.cpp
+     1>hog.cpp(117): warning C4244: 'initializing' : conversion from 'double' to 'vl_index', possible loss of data
+     1>hog.cpp(133): warning C4244: 'initializing' : conversion from 'double' to 'vl_index', possible loss of data
+     1>hog.cpp(477): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(478): warning C4244: '/=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(508): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(509): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(530): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(531): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(536): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(537): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(617): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(648): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(649): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(654): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(655): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(866): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(867): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(868): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(872): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(873): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(874): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(875): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(885): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(886): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(887): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>hog.cpp(888): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         main.cpp
+     1>main.cpp(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(57): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(58): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(61): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(62): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(63): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(64): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(185): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>main.cpp(186): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(239): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>main.cpp(256): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(258): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(259): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(264): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(265): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(266): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         G:\vs2013anzhuang\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\chenp\ConsoleApplication1\x64\Release\ConsoleApplication1.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\opencv\lib" /LIBPATH:"G:\陈平师哥的论文\资料\mbcr_68pt\mbcr_68pt\facedetect" opencv_calib3d2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_nonfree2413.lib opencv_objdetect2413.lib opencv_video2413.lib "libfacedetect-x64.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\chenp\ConsoleApplication1\x64\Release\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\chenp\ConsoleApplication1\x64\Release\ConsoleApplication1.lib" /MACHINE:X64 x64\Release\common.obj
+         x64\Release\hog.obj
+         x64\Release\main.obj
+         Generating code
+         Finished generating code
+         ConsoleApplication1.vcxproj -> F:\chenp\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
+     1>Done Building Project "F:\chenp\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.15
