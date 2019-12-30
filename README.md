@@ -21,6 +21,7 @@ Contents
 -------
 * [Introduction](#Introduction)
 * [Requirements](#Requirements)
+* [Usage](#Usage)
 * [demo](#demo)
 
 Introduction
@@ -42,6 +43,16 @@ into 3DA-2D ones without slowing down the speed.
 Requirements
 -------
     1.opencv2.4.13
+Usage
+-------
+    Organize your training and test sets as follows, and enter the paths of the training and test sets.
+    H:\68gedian\afw
+    H:\68gedian\helen\trainset
+    H:\68gedian\ibug
+    H:\68gedian\lfpw\trainset
+    end
+    H:\68gedian\lfpw\testset
+    end
 demo 
 -------
 Baidu Cloud:https://pan.baidu.com/s/1VSCAuMHHopy6Szf6nxHe3w
