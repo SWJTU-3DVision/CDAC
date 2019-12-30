@@ -9,7 +9,7 @@ const int num_landmarks = 68;
 const int feat_dim = 144;
 const int epoch = 30;
 
-ofstream out_zhang("out_1.0¡ª¡ªaaa.txt");
+ofstream out_zhang("out_1.0-aaa.txt");
 
 int saveR(string filename, Mat R)
 {
@@ -18,7 +18,7 @@ int saveR(string filename, Mat R)
 	if (fp == NULL) return -1;
 	int cols = R.cols;
 	int rows = R.rows;
-	// Ð´ÈëÊý¾Ý  
+	
 	fwrite(&rows, sizeof(int), 1, fp);
 	fwrite(&cols, sizeof(int), 1, fp);
 	for (int i = 0; i < rows; i++)
