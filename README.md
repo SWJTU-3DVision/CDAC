@@ -11,11 +11,16 @@ citation
 -------
 If you find our work useful in your research, please consider to cite:
 
-    @inproceedings{gong19,
-        author={Xun Gong , Ping Chen, Zhemin Zhang, Ke Chen, Yue Xiang and Xin Li},
-        title={A Cross-Dimension Annotations Method for 3D Structural Facial Landmark Extraction},
-        booktitle={COMPUTER GRAPHICS forum},   
-        year={2019},   
+    @article{doi:10.1111/cgf.13895,
+    author = {Gong, Xun and Chen, Ping and Zhang, Zhemin and Chen, Ke and Xiang, Yue and Li, Xin},
+    title = {A Cross-Dimension Annotations Method for 3D Structural Facial Landmark Extraction},
+    journal = {Computer Graphics Forum},
+    volume = {39},
+    number = {1},
+    pages = {623-636},
+    doi = {10.1111/cgf.13895},
+    url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13895},
+    year = {2020}
     }
 Contents
 -------
